@@ -1,0 +1,16 @@
+[
+  {
+    "id": "frontend-login-with-username-and-password-loginform-md-exists",
+    "category": "structural",
+    "target": "Frontend/Login_with_username_and_password/LoginForm.md",
+    "check": "file_exists",
+    "rationale": "Swimlane \"Frontend\" emitted this pseudocode file."
+  },
+  {
+    "id": "frontend-login-with-username-and-password-googleauthbutton-md-exists",
+    "category": "structural",
+    "target": "Frontend/Login_with_username_and_password/GoogleAuthButton.md",
+    "check": "file_exists",
+    "rationale": "Swimlane \"Frontend\" emitted this pseudocode file."
+  }
+]

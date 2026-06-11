@@ -1,0 +1,59 @@
+Canvas: 402×874px
+
+└─ card-group [0,0 402×874]
+   ├─ card [0,0 402×874]  fill=white rx=32
+   ├─ shape [52,23 33×13]  fill=#020E22
+   ├─ card [343,24 24×12]  stroke=#020E22 rx=3.8
+   ├─ icon [368,28 1×4]  fill=#020E22
+   ├─ card [344,25 21×9]  fill=#020E22 rx=2.5
+   ├─ icon [318,23 17×13]  fill=#020E22
+   ├─ icon [291,24 19×12]  fill=#020E22
+   ├─ text-path [21,244 115×16]  fill=#0A0D14
+   ├─ text-path [21,271 361×47]  fill=white
+   ├─ text-path [21,271 361×47]  stroke=#E2E4E9
+   ├─ group [34,287 17×15]
+   │  └─ icon [34,287 17×15]  fill=#868C98
+   ├─ text-path [61,288 112×14]  fill=#868C98
+   ├─ text-path [21,335 65×10]  fill=#0A0D14
+   ├─ text-path [21,359 361×47]  fill=white
+   ├─ text-path [21,359 361×47]  stroke=#E2E4E9
+   ├─ group [35,374 15×17]
+   │  └─ icon [35,374 15×17]  fill=#868C98
+   ├─ text-path [61,381 89×3]  fill=#868C98
+   ├─ group [351,375 18×15]
+   │  └─ icon [351,375 18×15]  fill=#868C98
+   ├─ text-path [281,421 100×12]  fill=#2E47BA
+   ├─ text-group [20,462 362×48]
+   │  ├─ text-path [20,462 362×48]  fill=#2E47BA
+   │  ├─ text-path [20,462 362×48]  fill=gradient(image)
+   │  ├─ text-path [20,462 362×48]  fill=gradient(image)
+   │  ├─ text-path [21,463 361×47]  stroke=url(#paint2_linear_16750_4427)
+   │  └─ shape [183,480 36×15]  fill=white
+   ├─ divider [20,539 165×0]  stroke=#E2E4E9
+   ├─ icon [193,535 16×9]  fill=#868C98
+   ├─ divider [218,539 165×0]  stroke=#E2E4E9
+   ├─ text-path [21,570 361×47]  fill=white
+   ├─ text-path [21,570 361×47]  stroke=#E2E4E9
+   ├─ icon [125,586 10×5]  fill=#EA4335
+   ├─ icon [131,592 6×6]  fill=#4285F4
+   ├─ icon [124,590 3×6]  fill=#FBBC05
+   ├─ icon [125,594 10×5]  fill=#34A853
+   ├─ text-path [146,587 134×15]  fill=#0A0D14
+   ├─ text-path [21,634 361×47]  fill=#1877F2
+   ├─ text-path [21,634 361×47]  stroke=#E2E4E9
+   ├─ icon [112,647 20×20]  fill=#1877F2
+   ├─ icon [117,651 9×16]  fill=white
+   ├─ text-path [137,651 153×15]  fill=white
+   ├─ text-path [21,698 361×47]  fill=#20232D
+   ├─ text-path [21,698 361×47]  stroke=#CDD0D5
+   ├─ icon [130,714 11×13]  fill=white
+   ├─ text-path [151,715 125×15]  fill=white
+   ├─ text-path [105,817 144×9]  fill=#525866
+   ├─ text-path [254,817 44×12]  fill=#2E47BA
+   ├─ card [134,861 134×5]  fill=#0A0D14 rx=2.5
+   ├─ shape [21,75 35×35]  fill=white
+   ├─ shape [21,75 35×35]  stroke=#CDD0D5
+   ├─ group [31,86 13×13]
+   │  └─ icon [31,86 13×13]  fill=#0A0D14
+   ├─ shape [21,135 41×17]  fill=#0A0D14
+   └─ text-path [20,167 350×30]  fill=#525866

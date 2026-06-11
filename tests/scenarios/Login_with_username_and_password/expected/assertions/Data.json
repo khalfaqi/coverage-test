@@ -1,0 +1,36 @@
+[
+  {
+    "id": "data-login-with-username-and-password-authservice-md-exists",
+    "category": "structural",
+    "target": "Data/Login_with_username_and_password/AuthService.md",
+    "check": "file_exists",
+    "rationale": "Swimlane \"Data\" emitted this pseudocode file."
+  },
+  {
+    "id": "data-login-with-username-and-password-authcontroller-md-exists",
+    "category": "structural",
+    "target": "Data/Login_with_username_and_password/AuthController.md",
+    "check": "file_exists",
+    "rationale": "Swimlane \"Data\" emitted this pseudocode file."
+  },
+  {
+    "id": "schema-declares-user",
+    "category": "structural",
+    "target": "Data/Login_with_username_and_password/AuthService.md",
+    "check": "schema_block_present",
+    "args": {
+      "entity": "User"
+    },
+    "rationale": "Data-tier SCHEMA block must declare the \"User\" entity."
+  },
+  {
+    "id": "schema-declares-authtoken",
+    "category": "structural",
+    "target": "Data/Login_with_username_and_password/AuthService.md",
+    "check": "schema_block_present",
+    "args": {
+      "entity": "AuthToken"
+    },
+    "rationale": "Data-tier SCHEMA block must declare the \"AuthToken\" entity."
+  }
+]
